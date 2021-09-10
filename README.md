@@ -1,4 +1,6 @@
 ### Hello, there 👋
+[![pizzarolls](https://forthebadge.com/images/badges/mom-made-pizza-rolls.svg)](https://axiomdev.net/qr/?src=Pizza-Rolls)
+[![discord](https://badgen.net/badge/icon/discord?icon=discord&label)]()
 
 <!--
 **BadWolf22/BadWolf22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +16,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<p align="center">
+	<img src=https://github-readme-stats.vercel.app/api?username=BadWolf22&show_icons=true alt=BadWolf22 />
+</p>
