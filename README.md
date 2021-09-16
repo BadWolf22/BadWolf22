@@ -1,6 +1,7 @@
 ### Hello, there 👋
-[![pizzarolls](https://forthebadge.com/images/badges/mom-made-pizza-rolls.svg)](https://axiomdev.net/qr/?src=Pizza-Rolls)
-[![discord](https://badgen.net/badge/icon/discord?icon=discord&label)]()
+[![pizzarolls](https://forthebadge.com/images/badges/mom-made-pizza-rolls.svg)](https://axiomdev.net/qr/?src=Pizza-Rolls)  
+[![discord](https://user-images.githubusercontent.com/40918920/133666906-7d4180a2-fe9d-4509-8906-de1aba508b8f.png)]()
+
 
 <!--
 **BadWolf22/BadWolf22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
