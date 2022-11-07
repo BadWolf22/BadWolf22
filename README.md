@@ -19,5 +19,6 @@ Here are some ideas to get you started:
 -->
 
 <p align="center">
-	<img src=https://github-readme-stats.vercel.app/api?username=BadWolf22&show_icons=true alt=BadWolf22 />
+<!-- 	<img src=https://github-readme-stats.vercel.app/api?username=BadWolf22&show_icons=true alt=BadWolf22 /> -->
+	<img src=https://github-readme-stats.vercel.app/api?username=BadWolf22&show_icons=true&count_private=true&include_all_commits=true&theme=moltack alt=BadWolf22 />
 </p>
